@@ -1,0 +1,21 @@
+THIS FILE CONTAINS PLAN INFO FOR SNAKES AND LADDERS
+
+Bits required:
+- Board
+    - Numbered Spaces from 1 - 100
+    - 8 Snakes
+    - 8 Ladders
+- Up to 4 Player tokens
+- A dice
+- Optional: Player Names
+
+Game info:
+- Players start at 0 (off the board)
+- Board is made up of 100 squares
+- Snakes move tokens down the board
+- Ladders move players up the board
+
+Required classes:
+- Board
+- Pieces
+- Coordinates
