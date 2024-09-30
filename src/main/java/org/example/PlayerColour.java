@@ -1,4 +1,9 @@
 package org.example;
 
-public class PlayerColour {
+public enum PlayerColour{
+    RED,
+    BLUE,
+    GREEN,
+    YELLOW;
+
 }

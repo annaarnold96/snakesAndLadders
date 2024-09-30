@@ -19,3 +19,4 @@ Required classes:
 - Board
 - Pieces
 - Coordinates
+- Game

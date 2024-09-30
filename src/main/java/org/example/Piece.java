@@ -1,4 +1,13 @@
 package org.example;
 
-public class Piece {
+public interface Piece {
+
+    enum PieceType{
+        STANDARD;
+    }
+
+    PieceType getType();
+
+    PlayerColour getColour();
+
 }
