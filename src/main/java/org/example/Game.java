@@ -11,5 +11,6 @@ public class Game {
 
     public Piece pieceAt(int row, int col){
         return board.get(new Coordinates(row, col));
+        System.out.println("hello");
     }
 }
